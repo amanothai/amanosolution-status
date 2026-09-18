@@ -40,17 +40,17 @@
     "url": "https://releases.amanosolution.com/releases/latest.yml",
     "icon": "https://icons.duckduckgo.com/ip3/releases.amanosolution.com.ico",
     "slug": "release-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 801,
-    "timeDay": 665,
-    "timeWeek": 801,
-    "timeMonth": 801,
-    "timeYear": 801,
+    "time": 793,
+    "timeDay": 714,
+    "timeWeek": 793,
+    "timeMonth": 793,
+    "timeYear": 793,
     "dailyMinutesDown": {}
   }
 ]
