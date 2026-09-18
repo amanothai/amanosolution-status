@@ -1,4 +1,4 @@
-url: https://releases.amanosolution.com/releases/latest.yml
+url: https://releases.amanosolution.com/health.txt
 status: down
 code: 403
 responseTime: 762

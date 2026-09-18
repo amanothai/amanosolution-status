@@ -7,7 +7,7 @@ sites:
   - name: Parking API (SIT)
     url: https://sit-api.amanosolution.com/api/health
   - name: Release CDN
-    url: https://releases.amanosolution.com/releases/latest.yml
+    url: https://releases.amanosolution.com/health.txt
 
 status-website:
   cname: status.amanosolution.com
