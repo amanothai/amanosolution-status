@@ -1,7 +1,7 @@
 url: https://releases.amanosolution.com/health.txt
-status: down
-code: 403
-responseTime: 786
-lastUpdated: 2026-09-18T10:20:51.524Z
+status: up
+code: 200
+responseTime: 879
+lastUpdated: 2026-09-18T10:24:09.573Z
 startTime: 2026-09-15T09:28:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
