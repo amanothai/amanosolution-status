@@ -11,9 +11,20 @@ sites:
 
 status-website:
   cname: status.amanosolution.com
-  name: Amano LPR Parking
-  introTitle: Amano LPR Parking Status
-  introMessage: Live availability of the Amano LPR Parking platform.
+  name: Amano Parking System
+  introTitle: Amano Parking System Status
+  introMessage: >-
+    Live availability of the Amano Parking System platform.
+
+
+    **A note on response times.** These checks run from GitHub Actions runners in
+    the US against servers in AWS ap-southeast-7 (Bangkok). Each figure therefore
+    includes roughly 700-900 ms of trans-Pacific round trips and TLS handshake,
+    paid fresh on every check because no connection is reused. It is a measure of
+    distance, not of application speed. From within South East Asia the same
+    request typically completes in 5-80 ms, and server-side processing is under
+    10 ms. Read these graphs for availability and for trends over time, not as
+    absolute latency.
   navbar:
     - title: Status
       href: /
