@@ -1,7 +1,7 @@
 url: https://sit-api.amanosolution.com/api/health
-status: down
-code: 503
-responseTime: 713
-lastUpdated: 2026-11-14T16:18:55.686Z
+status: up
+code: 200
+responseTime: 2536
+lastUpdated: 2026-11-14T16:32:48.647Z
 startTime: 2026-09-15T09:28:37.009Z
 generator: Upptime <https://github.com/upptime/upptime>
