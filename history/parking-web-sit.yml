@@ -1,7 +1,7 @@
 url: https://sit.amanosolution.com/health
-status: up
-code: 200
-responseTime: 821
-lastUpdated: 2026-11-20T23:05:59.598Z
+status: down
+code: 503
+responseTime: 753
+lastUpdated: 2026-11-21T03:52:52.623Z
 startTime: 2026-09-15T09:28:35.904Z
 generator: Upptime <https://github.com/upptime/upptime>
